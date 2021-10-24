@@ -1,6 +1,9 @@
-PRODUCT_PACKAGES += libdisplayconfig.system \
+PRODUCT_PACKAGES += libdisplayconfig \
+                    libdisplayconfig.system \
+                    libqdMetaData \
                     libqdMetaData.system \
                     libgralloc.system.qti \
+                    libgralloc.qti \
                     libdrm \
                     libsmomo.qti \
                     liblayerext.qti \
